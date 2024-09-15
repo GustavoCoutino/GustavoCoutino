@@ -1,9 +1,18 @@
 <h1 align="center">Gustavo Coutiño Ocampo</h1>
 <h3 align="center">Bachelor of Science in Computer Science and Technology</h3>
 
-Hello! I'm a computer science student with interest in software development and web development. I have experience working with Java, C++, and Python in developing desktop applications and solving algorithmic problems. My experience on web applications consists of PHP, Javascript, and Flask, alonside MySQL. I am currently looking for positions such as internships, fellowships, or any other entry-level opportunities to develop my professional skills and participate in environments that encourage challenging work and innovation.
+I am a third-year computer science student at Tecnológico de Monterrey, passionate about full-stack development. With a strong foundation in data structures and algorithms, I am constantly seeking opportunities to solve complex problems and contribute to impactful projects.
 
+## Skills
 
+### Web Development
+I have experience building dynamic web applications using technologies like JavaScript, React, Node.js, and SQL. My focus is on creating responsive and efficient user experiences for both desktop and mobile users.
+
+### Competitive Programming
+I have a strong foundation in data structures and algorithms, and recently qualified for the ICPC Mexico Finals 2024, where I applied advanced problem-solving skills and algorithmic techniques to tackle challenging computational problems.
+
+### Full Stack Development
+I am proficient in both frontend and backend development, working with frameworks such as Express, React, and databases like MongoDB and MySQL to deliver complete solutions.
 
 <h3 align="left">Skills</h3>
 
@@ -24,5 +33,5 @@ Hello! I'm a computer science student with interest in software development and 
 
 <h3 align="left">Contact Information</h3>
 
-- Email: gustavocoutino004@gmail.com
+- Email: gcoutino04@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gustavo-coutino-ocampo/
