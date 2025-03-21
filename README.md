@@ -1,37 +1,61 @@
 <h1 align="center">Gustavo Coutiño Ocampo</h1>
-<h3 align="center">Bachelor of Science in Computer Science and Technology</h3>
+<h3 align="center">Computer Science Student at Tecnológico de Monterrey</h3>
 
-I am a third-year computer science student at Tecnológico de Monterrey, passionate about full-stack development. With a strong foundation in data structures and algorithms, I am constantly seeking opportunities to solve complex problems and contribute to impactful projects.
+## About Me
+- 🎓 Third-year Computer Science student 
+- 💻 Full-stack developer passionate about building web applications
+- 🏆 ICPC Mexico Finals 2024 qualifier
+- 🧠 Strong foundation in data structures and algorithms
 
-## Skills
+## Currently Learning
+- <img alt="Go" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+- <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 
-### Web Development
-I have experience building dynamic web applications using technologies like JavaScript, React, Node.js, and SQL. My focus is on creating responsive and efficient user experiences for both desktop and mobile users.
+## Tech Stack
 
-### Competitive Programming
-I have a strong foundation in data structures and algorithms, and recently qualified for the ICPC Mexico Finals 2024, where I applied advanced problem-solving skills and algorithmic techniques to tackle challenging computational problems.
+### Programming languages
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+###Other technologies
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="Render" src="https://img.shields.io/badge/-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
-### Full Stack Development
-I am proficient in both frontend and backend development, working with frameworks such as Express, React, and databases like MongoDB and MySQL to deliver complete solutions.
+## GitHub Stats
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCoutino&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCoutino&layout=compact&theme=radical" alt="Top Languages" width="42%" />
+</div>
 
-<h3 align="left">Skills</h3>
+## LeetCode Stats
+[![Gustavo's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=GustavoCoutino04&theme=Dark)](https://leetcode.com/u/GustavoCoutino04/)
 
-- **General Purpose Languages** 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-- **Web Development** 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40" height="40"/></a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
-
-
- - **Development Tools**
-<p align="left"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="vscode" width="40" height="40"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"></a>
-  <a href="https://github.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="40" height="40"></a>
-  <a href="https://www.mamp.info/en/mamp/mac/" target="_blank"><img src="https://www.mamp.info/images/icons/mamp-pro.png" alt="mamp" width="40" height="40"></a></p>
-
-
-<h3 align="left">Contact Information</h3>
-
-- Email: gcoutino04@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gustavo-coutino-ocampo/
+## Contact Me
+<p>
+  <a href="mailto:gcoutino04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gcoutino04%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-coutino-ocampo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Coutiño%20Ocampo-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
