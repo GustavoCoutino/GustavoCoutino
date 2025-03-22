@@ -23,7 +23,7 @@
   <img alt="Swift" src="https://img.shields.io/badge/-SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-###Other technologies
+<h3>Other technologies</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/-NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
