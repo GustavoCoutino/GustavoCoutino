@@ -2,16 +2,18 @@
 <h3 align="center">Computer Science Student at Tecnológico de Monterrey</h3>
 
 ## About Me
-- 🎓 Fourth-year Computer Science student 
-- 💻 Backend developer passionate about building web applications
+- 🎓 Fourth-year Computer Science student
+- 💻 Backend developer interested in working with microservice architecture
+- 📶 Previous experience as a SWE using Go, A/B testing, metric analysis, and complete code coverage
 - 🏆 ICPC Mexico Finals 2024 qualifier
-- 🧠 Strong foundation in data structures and algorithms
+- 🏸 Padel enjoyer
+- 🕷️ Big Hollow Knight fan
 
 ## Tech Stack
 <p>
+   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
