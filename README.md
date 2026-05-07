@@ -26,19 +26,12 @@
   <img alt="Express" src="https://img.shields.io/badge/-EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCoutino&show_icons=true&theme=radical" alt="GitHub Stats" height=180 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCoutino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&hide=jupyter%20notebook" alt="Top Languages" height=180 />
-</div>
-
-
 ## Contact Me
 <p>
   <a href="mailto:gustavocoutino004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gustavocoutino004%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-coutino-ocampo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Coutiño%20Ocampo-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn">
   </a>
 </p>
